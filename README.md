@@ -47,3 +47,9 @@ Table 1. Quantitative results of different neural networks on the external valid
 | U-Net           | ResNet-Unet          | 0.82 | 69.94 |  7.79  |
 | U-Net           | MiT-Unet             | 0.82 | 62.88 |  7.04  |
 | **U-Net**       | **Swin-Unet**        | **0.86** | **46.44** | **16.95** |
+
+## Acknowledge
+
+This code is mainly based on 
+[Semi Mamba UNet](https://github.com/ziyangwang007/Mamba-UNet/blob/main/code/train_Semi_Mamba_UNet.py), [SegFormer](https://github.com/NVlabs/SegFormer), [Segmentation Models](https://github.com/qubvel-org/segmentation_models.pytorch), [SwinUNet](https://github.com/HuCaoFighting/Swin-Unet).
+Thanks for their contributions.

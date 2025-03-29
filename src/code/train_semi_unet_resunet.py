@@ -1,4 +1,3 @@
-# autodl-tmp/Mamba-UNet/code/train_fully_supervised_2D_ViT.py
 import argparse
 import logging
 import os
